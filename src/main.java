@@ -7,7 +7,7 @@ public class main {
 
         int usernum = 0;
         int num = 0;
-        //Testing
+        //Testing 1
 
 
         Random rand = new Random();
